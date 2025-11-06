@@ -15,13 +15,13 @@ It uses the **LangGraph Supervisor framework** to route tasks intelligently and 
 
 
 The **Supervisor** reasons about the query, delegates tasks, gathers responses, and merges them into a structured, verified final answer.
-Supervisor-Agent/
-│
-├── main.py          # Entry point, defines Supervisor workflow
-├── agents.py        # Defines Tavily, Wikipedia, and Arxiv agents
-├── .env             # API keys and configuration
-├── requirements.txt # Dependencies
-└── README.md        # Documentation
+Supervisor-Agent/</br>
+│</br>
+├── main.py          # Entry point, defines Supervisor workflow </br>
+├── agents.py        # Defines Tavily, Wikipedia, and Arxiv agents </br>
+├── .env             # API keys and configuration </br>
+├── requirements.txt # Dependencies</br>
+└── README.md        # Documentation</br>
 
 ---
 
@@ -59,5 +59,6 @@ Supervisor-Agent/
 | **dotenv** | For environment configuration |
 
 ---
+
 
 
